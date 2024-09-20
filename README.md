@@ -4,6 +4,13 @@
 
 This repository contains one part of the initial code for experiments with parallel jaw grasping using the dataset from Zeng et al. (2018) [1]. The experiments focus on multi-task learning for robotic grasping, combining grasp prediction and pose estimation.
 
+### Key Features
+
+- Multi-task learning framework for grasp prediction and pose estimation
+- Adaptive routing mechanism for flexible feature utilization
+- Hyperparameter tuning capabilities
+- Comprehensive evaluation metrics including IoU for grasps
+
 The experiments use the parallel-jaw grasping dataset provided by Zeng et al. This dataset includes:
 
 - RGB-D images of input scenes
